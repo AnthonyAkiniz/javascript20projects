@@ -1,4 +1,4 @@
-# javascript20projects
+# Javascript 20 Projects
 20 web projects using HTML, CSS &amp; JS
 
 | #  |       Project       | Live Demo |
